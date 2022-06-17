@@ -55,11 +55,11 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 #### SIMULATION 
  ![o](./1.png)
- #### PLOT 
+#### PLOT 
  ![o](./2.png)
-  #### Table
-![o](.\4.png)
- #### EE configuration
+#### Table
+ ![o](.\4.png)
+#### EE configuration
  ![o](./3.png)
 
  
