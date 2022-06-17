@@ -58,7 +58,7 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 #### PLOT 
  ![o](./2.png)
 #### Table
- ![o](.\4.png)
+![image](https://user-images.githubusercontent.com/94530523/174303412-a45feb58-1087-4858-a92f-e8e32dd6b8f9.png)
 #### EE configuration
  ![o](./3.png)
 
